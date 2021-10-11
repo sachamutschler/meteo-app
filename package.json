@@ -1,0 +1,24 @@
+{
+  "name": "app-meteo",
+  "version": "1.0.0",
+  "description": "meteo app to train api",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachamutschler/meteo-app.git"
+  },
+  "author": "Sacha Mutschler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachamutschler/meteo-app/issues"
+  },
+  "homepage": "https://github.com/sachamutschler/meteo-app#readme",
+  "devDependencies": {
+    "electron": "^15.1.2"
+  }
+  
+}
